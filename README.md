@@ -1,5 +1,8 @@
 # Concurrency Development Labs
 
+Chengyan song
+C00292847
+
 This repository contains a collection of Go programs designed to explore and demonstrate various concurrency patterns, synchronization primitives, and parallel processing techniques.
 
 ## Project Structure
